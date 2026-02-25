@@ -10,3 +10,4 @@ A simple React project exploring hooks and props.
 
 ## How to run
 This project is currently a set of learning components. To run them, you can integrate them into a Vite or Create React App environment.
+
