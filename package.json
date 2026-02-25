@@ -1,1 +1,13 @@
-{ "name": "node-react-learning", "version": "1.0.0", "description": "Learning React hooks and props", "main": "hooks.jsx", "scripts": { "start": "react-scripts start" }, "dependencies": { "react": "^18.0.0", "react-dom": "^18.0.0" } }
+{
+    "name": "node-react-learning",
+    "version": "1.0.0",
+    "description": "Learning React hooks and props",
+    "main": "hooks.jsx",
+    "scripts": {
+        "start": "react-scripts start"
+    },
+    "dependencies": {
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    }
+}
